@@ -154,16 +154,6 @@ input:invalid {
 
 }
 
-@media screen and (max-width: 890px) {
-
-	#testimonios {
-		font-size: 2em;
-	}
-	.testimonio {
-		text-align: center;
-		width: 100%;
-	}
-}
 
 @media screen and (max-width: 890px) {
 	#servicios {
